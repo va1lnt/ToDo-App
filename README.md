@@ -8,7 +8,7 @@
 
 ## Скриншоты
 
-![Скриншот приложения](https://github.com/va1lnt/ToDo-App/raw/main/screenshot.png)
+![Скриншот приложения](TodoApp.png)
 
 ## Установка
 
